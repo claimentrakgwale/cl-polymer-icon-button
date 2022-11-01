@@ -1,0 +1,30 @@
+{
+  "name": "cl-polymer-icon-button",
+  "version": "1.0.0",
+  "description": "Claiment Polymer Icon Button",
+  "main": "cl-polymer-icon-button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claimentrakgwale/cl-polymer-icon-button.git"
+  },
+  "keywords": [
+    "Polymer"
+  ],
+  "author": "Claiment Thabiso Rakgwale",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/claimentrakgwale/cl-polymer-icon-button/issues"
+  },
+  "homepage": "https://github.com/claimentrakgwale/cl-polymer-icon-button#readme",
+  "dependencies": {
+    "@polymer/decorators": "^3.0.0",
+    "@polymer/iron-icon": "^3.0.1",
+    "@polymer/paper-ripple": "^3.0.2",
+    "@polymer/paper-tooltip": "^3.0.1",
+    "@polymer/polymer": "^3.5.1",
+    "cl-polymer-element-helpers": "^1.0.1"
+  }
+}
